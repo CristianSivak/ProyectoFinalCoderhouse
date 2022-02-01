@@ -52,8 +52,3 @@ E-commerce project
 ### SYSTEM (/api/system)
 
 * GET / - obtener información del sistema provista por 'process'.
-
-## Info adicional
-
-Heroku URL: https://coderhouse-sawin-ecommerce.herokuapp.com/
-
